@@ -23,3 +23,4 @@ Validation rules: validation rules  also include an error message to display to 
 
 
  Permission sets: Organization Wide Defaults(OWD) in salesforce is the baseline level of access that the most restricted user should have. Organizational Wide Defaults are used to restrict access.But in our case we created roles and given the roles in such a way that the owner  can see   employer  and worker  records , and the employer can see the worker  records.
+![image](https://github.com/Ayushiiiiiiiiiiiiiiii/CRM-Application-for-Wholesale-Rice-Mill/assets/101493317/40dada93-e098-4ee9-97ef-1666a7f2e95d)
