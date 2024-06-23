@@ -5,6 +5,9 @@ Features and Functionality:
 
 
 Reporting and Dashboards: The application can generate detailed reports and analytics regarding daily how much rice sold and total income per daily, revenue generated, popular amenities, and most buyed customers. Easy to understand the data to the owner, improving resource allocation, and planning future development.
+![image](https://github.com/Ayushiiiiiiiiiiiiiiii/CRM-Application-for-Wholesale-Rice-Mill/assets/101493317/bc1e0bfc-4ae5-4d61-bda0-5bbd23ebfe10)
+
+
 
 
 A rollup summary field: This is a field that summarizes data from a child object to a parent object that shares a master-detail relationship. Rollup summary fields can use the COUNT, SUM, MIN, and MAX functions. For example, you could use a rollup summary field to display the total value (amount of rice supplied ) from rice  details on a related supplier.
